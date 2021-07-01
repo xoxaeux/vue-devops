@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to Your xoxaeux App" />
+  <HelloWorld msg="Welcome to Your dotaeuk App" />
 </template>
 
 <script>
